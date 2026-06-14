@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>pl.altkom.springcloud.lab02.feign</groupId>
-	<artifactId>employee-service</artifactId>
+	<artifactId>lab02-employee-service</artifactId>
 	<version>1.0.0</version>
 	<name>employee-service</name>
 	<description>Employee Service</description>
